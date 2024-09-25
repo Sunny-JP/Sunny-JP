@@ -19,6 +19,9 @@
 ## 🌱 Skills
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js" />
 <br>
+### Learning
+<img alt="my learning" src="https://skillicons.dev/icons?theme=dark&perline=7&i=py,ruby,php" />
+<br>
 
 
 <!-- 4. GitHub usernameを変更, 2箇所 -->
