@@ -12,6 +12,6 @@
 
 ## Activities
 <div align="left"> 
-  <img alt="Top Langs" height="200px" align="center" src="https://github-readme-stats.sunsun.earth/api?username=Sunny-JP&theme=github_dark&show_icons=true&line_height=27&card_width=300&count_private=true&border_radius=0" />
-  <img alt="github stats" height="200px" align="center" src="https://github-readme-stats.sunsun.earth/api/top-langs/?username=Sunny-JP&theme=github_dark&show_icons=true&layout=compact&langs_count=20&count_private=true&border_radius=0" />
+  <img alt="Top Langs" height="200px" align="center" src="https://github-readme-stats.hu-tao.work/api?username=Sunny-JP&theme=github_dark&show_icons=true&line_height=27&card_width=300&count_private=true&border_radius=0" />
+  <img alt="github stats" height="200px" align="center" src="https://github-readme-stats.hu-tao.work/api/top-langs/?username=Sunny-JP&theme=github_dark&show_icons=true&layout=compact&langs_count=20&count_private=true&border_radius=0" />
 </div>
