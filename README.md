@@ -1,14 +1,14 @@
 ## Hi there <img src="https://komarev.com/ghpvc/?username=Sunny-JP" />
-- 🧑‍💻 I’m an apprentice front-end engineer.
+- 🧑‍💻 I’m an apprentice front-end application engineer.
 - 🌱 I’m currently learning: Applied Information Technology Engineer Examination.
 - 📫 How to reach me: [mail](<mailto:contact@sunsun.earth>)
 
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
 ## Using
-<img alt="using" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,nodejs,vue" />
+<img alt="using" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,nodejs,vue,nextjs" />
 
 ## Learning
-<img alt="learning" src="https://skillicons.dev/icons?theme=dark&perline=7&i=py,ruby,latex,react" />
+<img alt="learning" src="https://skillicons.dev/icons?theme=dark&perline=7&i=java,py,ruby,latex" />
 
 ## Activities
 <div align="left"> 
