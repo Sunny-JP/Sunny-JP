@@ -5,10 +5,10 @@
 
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
 ## Using
-<img alt="using" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,nodejs,vue,nextjs" />
+<img alt="using" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,nodejs,vue,nextjs,java,supabase" />
 
 ## Learning
-<img alt="learning" src="https://skillicons.dev/icons?theme=dark&perline=7&i=java,py,ruby,latex" />
+<img alt="learning" src="https://skillicons.dev/icons?theme=dark&perline=7&i=py,ruby,latex" />
 
 ## Activities
 <div align="left"> 
