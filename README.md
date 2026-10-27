@@ -1,7 +1,7 @@
 ## Hi there <img src="https://komarev.com/ghpvc/?username=Sunny-JP" />
 - 🧑‍💻 I’m an apprentice front-end application engineer.
 - 🌱 I’m currently learning: Applied Information Technology Engineer Examination.
-- 📫 How to reach me: [mail](<mailto:contact@sunsun.earth>)
+- 📫 How to reach me: [mail](<mailto:contact-via-github@m.rabbit1.cc>)
 
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
 ## Using
